@@ -8,7 +8,9 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 - [Core Concepts](#core-concepts)
 - [Agent Frameworks](#agent-frameworks)
 - [Research Papers](#papers)
-- [Datasets](#datasets)
+  - [Surveys & Overviews](#surveys--overviews)
+  - [Models & Architectures](#models--architectures)
+  - [Tools & Agent Learning](#tools--agent-learning)
 - [Tools & Libraries](#tools--libraries)
 - [Tutorials & Courses](#tutorials--courses)
 - [Contributing](#contributing)
@@ -26,22 +28,34 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Experimental open-source autonomous AI agent | Python | MIT |
 | [LangChain](https://github.com/langchain-ai/langchain) | Building context-aware reasoning applications | Python | MIT |
 | [Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents) | Natural language interface for 100+ ML models | Python | Apache 2.0 |
+| [LangGraph](https://www.langchain.com/langgraph) | Stateful multi-agent system framework for AI agents | Python | MIT |
+| [CrewAI](https://www.crewai.com/) | Role-playing AI agents for collaborative problem-solving, supports multimodal tasks | Python | - |
+| [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) | Enterprise AI integration framework, supports multimodal via LLM integration | C# | MIT |
+| [Microsoft AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation system, supports potential multimodal extensions | Python | MIT |
+| [Smolagents](https://huggingface.co/docs/smolagents/en/index) | Lightweight collaborative AI system, supports multimodal data via Hugging Face | Python | Apache 2.0 |
 
 ## Papers
 
+### Surveys & Overviews
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2023-10-12 | GPT-4V(ision) System Card                                            | arXiv          | [Paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | - |
-| 2023-07-20 | PaLM-E: An Embodied Multimodal Language Model                         | ICML 2023      | [Paper](https://arxiv.org/abs/2303.03378) | [Code](https://github.com/google-research/palm-e) |
-| 2023-03-30 | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | arXiv        | [Paper](https://arxiv.org/abs/2303.04671) | [Code](https://github.com/microsoft/visual-chatgpt) |
+| 2024-02    | Large Multimodal Agents: A Survey                                     | arXiv          | [Paper](https://arxiv.org/abs/2402.15116) | - |
+| 2024-01    | Agent AI: Surveying the Horizons of Multimodal Interaction            | arXiv          | [Paper](https://arxiv.org/abs/2401.03568) | - |
 
-## Datasets
+### Models & Architectures
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-02    | Magma: A Foundation Model for Multimodal AI Agents                    | arXiv          | [Paper](https://arxiv.org/abs/2502.13130) | - |
+| 2024-07    | The Llama 3 Herd of Models                                            | arXiv          | [Paper](https://arxiv.org/abs/2407.21783) | - |
+| 2024-03    | Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context | arXiv          | [Paper](https://arxiv.org/abs/2403.05530) | - |
+| 2023-10    | GPT-4V(ision) System Card                                            | arXiv          | [Paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf) | - |
+| 2023-07    | PaLM-E: An Embodied Multimodal Language Model                         | ICML 2023      | [Paper](https://arxiv.org/abs/2303.03378) | [Code](https://github.com/google-research/palm-e) |
+| 2023-03    | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | arXiv        | [Paper](https://arxiv.org/abs/2303.04671) | [Code](https://github.com/microsoft/visual-chatgpt) |
 
-| Name | Modalities | Description | Size | Link |
-|------|------------|-------------|------|------|
-| COCO | Image+Text | Common Objects in Context | 330K images | [Website](https://cocodataset.org/) |
-| Visual Genome | Image+Graph | Dense visual annotations | 108K images | [Website](https://visualgenome.org/) |
-| Something-Something | Video+Text | Temporal action understanding | 220K videos | [Website](https://20bn.com/datasets/something-something) |
+### Tools & Agent Learning
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2024-01    | MLLM-Tool: A Multimodal Large Language Model for Tool Agent Learning  | arXiv          | [Paper](https://arxiv.org/abs/2401.10727) | - |
 
 ## Tools & Libraries
 
@@ -50,6 +64,9 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | HuggingFace Transformers | State-of-the-art NLP models | Python | [GitHub](https://github.com/huggingface/transformers) |
 | PyTorch Lightning | ML research framework | Python | [Website](https://www.pytorchlightning.ai/) |
 | FiftyOne | Dataset visualization | Python | [Website](https://voxel51.com/fiftyone/) |
+
+## Tutorials & Courses
+- (No updates provided, contributions welcome)
 
 ## Contributing
 
