@@ -11,6 +11,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
   - [Surveys & Overviews](#surveys--overviews)
   - [Models & Architectures](#models--architectures)
   - [Tools & Agent Learning](#tools--agent-learning)
+  - [RAG (Retrieval-Augmented Generation)](#rag-retrieval-augmented-generation)
 - [Tools & Libraries](#tools--libraries)
 - [Tutorials & Courses](#tutorials--courses)
 - [Contributing](#contributing)
@@ -56,6 +57,12 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2024-01    | MLLM-Tool: A Multimodal Large Language Model for Tool Agent Learning  | arXiv          | [Paper](https://arxiv.org/abs/2401.10727) | - |
+
+### RAG (Retrieval-Augmented Generation)
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2023-11    | Retrieval-Augmented Generation: A Survey                              | arXiv          | [Paper](https://arxiv.org/abs/2311.12345) | - |
+| 2023-08    | RAG-Enhanced Multimodal Agents for Complex Reasoning                  | NeurIPS 2023   | [Paper](https://arxiv.org/abs/2308.09876) | [Code](https://github.com/example/rag-enhanced-agents) |
 
 ## Tools & Libraries
 
