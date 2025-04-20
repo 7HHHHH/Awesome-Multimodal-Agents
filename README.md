@@ -40,7 +40,6 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Surveys & Overviews
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2025-04    | Digital Twin Generation from Visual Data: A Survey                    | arXiv          | [Paper](http://arxiv.org/pdf/2504.13159v1) | [Code](https://github.com/ndrwmlnk/awesome-digital-twins) |
 | 2024-02    | Large Multimodal Agents: A Survey                                     | arXiv          | [Paper](https://arxiv.org/abs/2402.15116) | - |
 | 2024-01    | Agent AI: Surveying the Horizons of Multimodal Interaction            | arXiv          | [Paper](https://arxiv.org/abs/2401.03568) | - |
 
@@ -67,9 +66,6 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence              | arXiv          | [Paper](http://arxiv.org/pdf/2504.13079v1) | - |
-| 2025-04    | Sleep-time Compute: Beyond Inference Scaling at Test-time             | arXiv          | [Paper](http://arxiv.org/pdf/2504.13171v1) | - |
-| 2023-11    | Retrieval-Augmented Generation: A Survey                              | arXiv          | [Paper](https://arxiv.org/abs/2311.12345) | - |
-| 2023-08    | RAG-Enhanced Multimodal Agents for Complex Reasoning                  | NeurIPS 2023   | [Paper](https://arxiv.org/abs/2308.09876) | [Code](https://github.com/example/rag-enhanced-agents) |
 
 ## Tools & Libraries
 
