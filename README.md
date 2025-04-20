@@ -81,18 +81,6 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-04    | EventVAD: Training-Free Event-Aware Video Anomaly Detection           | arXiv          | [Paper](https://arxiv.org/abs/2504.13092) | - |
 | 2024-04    | Novel Demonstration Generation with Gaussian Splatting                | arXiv          | [Paper](https://arxiv.org/abs/2504.13175) | - |
 
-## Tools & Libraries
-- **LangChain**: Python library for building LLM applications
-- **MAAS (Multimodal Agent AI System)**: Framework for multimodal AI agents
-- **AutoGPT**: Framework for autonomous GPT-4 agents
-- **AgentVerse**: Multi-agent conversation framework
-
-## Tutorials & Courses
-- Building AI Agents with LangChain [Course]
-- Stanford CS324: Large Language Models
-- Berkeley CS294: Building Open-Source LLMs
-- Hugging Face Course: Building with Transformers
-
 ## Contributing
 Please feel free to open a pull request to contribute! Guidelines:
 - Ensure additions are high quality and relevant
