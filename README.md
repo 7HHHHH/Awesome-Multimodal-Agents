@@ -46,6 +46,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Models & Architectures
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Perception Encoder: The best visual embeddings are not at the output of the network | arXiv | [Paper](http://arxiv.org/abs/2504.13181) | - |
+| 2025-04    | PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding | arXiv | [Paper](http://arxiv.org/abs/2504.13180) | - |
 | 2025-02    | Magma: A Foundation Model for Multimodal AI Agents                    | arXiv          | [Paper](https://arxiv.org/abs/2502.13130) | - |
 | 2024-07    | The Llama 3 Herd of Models                                            | arXiv          | [Paper](https://arxiv.org/abs/2407.21783) | - |
 | 2024-03    | Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context | arXiv          | [Paper](https://arxiv.org/abs/2403.05530) | - |
@@ -56,6 +58,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Tools & Agent Learning
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Exploring Expert Failures Improves LLM Agent Tuning                   | arXiv          | [Paper](http://arxiv.org/abs/2504.13145) | - |
+| 2025-04    | Sleep-time Compute: Beyond Inference Scaling at Test-time             | arXiv          | [Paper](http://arxiv.org/abs/2504.13171) | - |
 | 2024-01    | MLLM-Tool: A Multimodal Large Language Model for Tool Agent Learning  | arXiv          | [Paper](https://arxiv.org/abs/2401.10727) | - |
 
 ### RAG (Retrieval-Augmented Generation)
