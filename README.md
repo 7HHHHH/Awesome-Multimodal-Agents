@@ -23,7 +23,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 - **Embodied AI**: Agents operating in physical/virtual environments
 
 ## Agent Frameworks
-[Previous content remains unchanged]
+
 
 ## Papers
 
@@ -58,5 +58,3 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2023-10    | Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models | AAAI 2024  | [Paper](https://arxiv.org/abs/2311.09210) | - |
 | 2023-08    | REALM: Retrieval-Augmented Language Model Pre-Training               | ICML 2023      | [Paper](https://arxiv.org/abs/2002.08909) | [Code](https://github.com/google-research/language/tree/master/language/realm) |
 | 2023-06    | Atlas: Few-shot Learning with Retrieval Augmented Language Models    | ICML 2023      | [Paper](https://arxiv.org/abs/2208.03299) | [Code](https://github.com/facebookresearch/atlas) |
-
-[Rest of the content remains unchanged]
