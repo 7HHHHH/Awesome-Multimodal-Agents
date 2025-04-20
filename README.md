@@ -48,6 +48,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2023-09    | GPT-4V: A Comprehensive Survey                                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
 | 2023-08    | Visual Instruction Tuning                                              | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
 | 2023-07    | PaLM-E: An Embodied Multimodal Language Model                        | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
+| 2024-04    | PerceptionLM: Open-Access Data and Models for Visual Understanding    | arXiv          | [Paper](https://arxiv.org/abs/2504.13180) | - |
 
 ### Tools & Agent Learning
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -78,6 +79,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-04    | PerceptionLM: Open-Access Data and Models                             | arXiv          | [Paper](https://arxiv.org/abs/2504.13180) | - |
 | 2024-04    | Perception Encoder: Visual Embeddings in Network Layers               | arXiv          | [Paper](https://arxiv.org/abs/2504.13181) | - |
 | 2024-04    | Low-hallucination Synthetic Captions for Vision-Language Models       | arXiv          | [Paper](https://arxiv.org/abs/2504.13123) | - |
+| 2024-04    | Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration | arXiv | [Paper](https://arxiv.org/abs/2504.13119) | - |
 
 ### Event-based Processing
 | Date       | Title                                                                 | Venue          | Paper | Code |
