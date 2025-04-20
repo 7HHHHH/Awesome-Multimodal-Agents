@@ -39,6 +39,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-02    | Large Multimodal Agents: A Survey                                     | arXiv          | [Paper](https://arxiv.org/abs/2402.15116) | - |
 | 2023-12    | A Survey on Multimodal Large Language Models                          | arXiv          | [Paper](https://arxiv.org/abs/2311.00201) | [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
 | 2023-10    | The Rise and Potential of Large Language Model Based Agents           | arXiv          | [Paper](https://arxiv.org/abs/2309.07864) | - |
+| 2025-04    | Digital Twin Generation from Visual Data: A Survey                    | arXiv          | [Paper](https://arxiv.org/pdf/2504.13159v1) | [Code](https://github.com/ndrwmlnk/awesome-digital-twins) |
+| 2025-04    | Hadamard Product in Deep Learning: Introduction, Advances and Challenges | arXiv       | [Paper](https://arxiv.org/pdf/2504.13112v1) | - |
 
 ### Models & Architectures
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -60,6 +62,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2023-12    | Self-RAG: Learning to Retrieve, Generate and Iterate                   | arXiv          | [Paper](https://arxiv.org/abs/2310.11511) | - |
 | 2023-11    | In-Context Retrieval-Augmented Language Models                         | arXiv          | [Paper](https://arxiv.org/abs/2302.00083) | - |
 | 2023-10    | A Survey on Retrieval-Augmented Text Generation                        | arXiv          | [Paper](https://arxiv.org/abs/2312.10997) | - |
+| 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence             | arXiv          | [Paper](https://arxiv.org/pdf/2504.13079v1) | - |
+| 2025-04    | InstructRAG: Leveraging RAG on Instruction Graphs for LLM-Based Task Planning | arXiv    | [Paper](https://arxiv.org/pdf/2504.13032v1) | - |
 
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
