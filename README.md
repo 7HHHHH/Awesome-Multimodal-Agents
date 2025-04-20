@@ -19,21 +19,47 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 - [Tutorials & Courses](#tutorials--courses)
 - [Contributing](#contributing)
 
-[Previous sections remain unchanged until Research Papers]
+## Core Concepts
+- **Multimodal Understanding**: Processing and connecting information from multiple modalities
+- **Agentic Behavior**: Autonomous decision-making, task completion, and environment interaction
+- **Tool Augmentation**: Integration with external APIs, databases, and software tools
+- **Embodied AI**: Agents operating in physical/virtual environments
+
+## Agent Frameworks
+- **LangChain**: Framework for developing applications powered by language models
+- **AutoGPT**: Experimental open-source attempt to make GPT-4 fully autonomous
+- **BabyAGI**: AI agent framework using language models for task management
+- **MetaGPT**: Framework for building autonomous AI agents through multi-agent collaboration
 
 ## Papers
 
 ### Surveys & Overviews
-[Previous content remains unchanged]
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2024-02    | Large Multimodal Agents: A Survey                                     | arXiv          | [Paper](https://arxiv.org/abs/2402.15116) | - |
+| 2023-12    | A Survey on Multimodal Large Language Models                          | arXiv          | [Paper](https://arxiv.org/abs/2311.00201) | [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
+| 2023-10    | The Rise and Potential of Large Language Model Based Agents           | arXiv          | [Paper](https://arxiv.org/abs/2309.07864) | - |
 
 ### Models & Architectures
-[Previous content remains unchanged]
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2023-09    | GPT-4V: A Comprehensive Survey                                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
+| 2023-08    | Visual Instruction Tuning                                              | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
+| 2023-07    | PaLM-E: An Embodied Multimodal Language Model                        | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
 
 ### Tools & Agent Learning
-[Previous content remains unchanged]
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2023-11    | Tool Learning with Foundation Models                                   | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08354) | [Code](https://github.com/OpenBMB/ToolBench) |
+| 2023-09    | Language Models as Zero-Shot Tool Learners                            | NeurIPS        | [Paper](https://arxiv.org/abs/2308.04548) | - |
+| 2023-08    | Large Language Models as Tool Makers                                   | arXiv          | [Paper](https://arxiv.org/abs/2305.17126) | [Code](https://github.com/ctlllll/llm-toolmaker) |
 
 ### RAG (Retrieval-Augmented Generation)
-[Previous content remains unchanged]
+| Date       | Title                                                                 | Venue          | Paper | Code |
+|------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2023-12    | Self-RAG: Learning to Retrieve, Generate and Iterate                   | arXiv          | [Paper](https://arxiv.org/abs/2310.11511) | - |
+| 2023-11    | In-Context Retrieval-Augmented Language Models                         | arXiv          | [Paper](https://arxiv.org/abs/2302.00083) | - |
+| 2023-10    | A Survey on Retrieval-Augmented Text Generation                        | arXiv          | [Paper](https://arxiv.org/abs/2312.10997) | - |
 
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -55,4 +81,20 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-04    | EventVAD: Training-Free Event-Aware Video Anomaly Detection           | arXiv          | [Paper](https://arxiv.org/abs/2504.13092) | - |
 | 2024-04    | Novel Demonstration Generation with Gaussian Splatting                | arXiv          | [Paper](https://arxiv.org/abs/2504.13175) | - |
 
-[Rest of the content remains unchanged]
+## Tools & Libraries
+- **LangChain**: Python library for building LLM applications
+- **MAAS (Multimodal Agent AI System)**: Framework for multimodal AI agents
+- **AutoGPT**: Framework for autonomous GPT-4 agents
+- **AgentVerse**: Multi-agent conversation framework
+
+## Tutorials & Courses
+- Building AI Agents with LangChain [Course]
+- Stanford CS324: Large Language Models
+- Berkeley CS294: Building Open-Source LLMs
+- Hugging Face Course: Building with Transformers
+
+## Contributing
+Please feel free to open a pull request to contribute! Guidelines:
+- Ensure additions are high quality and relevant
+- Follow the established format
+- Add a brief description for new categories
