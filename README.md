@@ -66,6 +66,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence              | arXiv          | [Paper](http://arxiv.org/pdf/2504.13079v1) | - |
+| 2025-04    | InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning | arXiv | [Paper](http://arxiv.org/pdf/2504.13032v1) | - |
 
 ## Tools & Libraries
 
