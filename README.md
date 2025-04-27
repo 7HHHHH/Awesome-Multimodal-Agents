@@ -36,6 +36,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Surveys & Overviews
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Safety in Large Reasoning Models: A Survey                           | arXiv          | [Paper](https://arxiv.org/pdf/2504.17704v1) | - |
 | 2024-02    | Large Multimodal Agents: A Survey                                     | arXiv          | [Paper](https://arxiv.org/abs/2402.15116) | - |
 | 2023-12    | A Survey on Multimodal Large Language Models                          | arXiv          | [Paper](https://arxiv.org/abs/2311.00201) | [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
 | 2023-10    | The Rise and Potential of Large Language Model Based Agents           | arXiv          | [Paper](https://arxiv.org/abs/2309.07864) | - |
@@ -45,6 +46,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Models & Architectures
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models | arXiv | [Paper](http://arxiv.org/pdf/2504.17789v1) | - |
 | 2023-09    | GPT-4V: A Comprehensive Survey                                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
 | 2023-08    | Visual Instruction Tuning                                              | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
 | 2023-07    | PaLM-E: An Embodied Multimodal Language Model                        | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
@@ -53,6 +55,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Tools & Agent Learning
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Step1X-Edit: A Practical Framework for General Image Editing          | arXiv          | [Paper](http://arxiv.org/pdf/2504.17761v1) | - |
 | 2023-11    | Tool Learning with Foundation Models                                   | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08354) | [Code](https://github.com/OpenBMB/ToolBench) |
 | 2023-09    | Language Models as Zero-Shot Tool Learners                            | NeurIPS        | [Paper](https://arxiv.org/abs/2308.04548) | - |
 | 2023-08    | Large Language Models as Tool Makers                                   | arXiv          | [Paper](https://arxiv.org/abs/2305.17126) | [Code](https://github.com/ctlllll/llm-toolmaker) |
@@ -69,6 +72,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees | arXiv | [Paper](http://arxiv.org/pdf/2504.17721v1) | - |
 | 2024-04    | Exploring Expert Failures Improves LLM Agent Tuning                   | arXiv          | [Paper](https://arxiv.org/abs/2504.13145) | - |
 | 2024-04    | Sleep-time Compute: Beyond Inference Scaling at Test-time             | arXiv          | [Paper](https://arxiv.org/abs/2504.13171) | - |
 | 2024-04    | It's All Connected: Test-Time Memorization and Attentional Bias       | arXiv          | [Paper](https://arxiv.org/abs/2504.13173) | - |
@@ -84,6 +88,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Event-based Processing
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | Plasma State Monitoring and Disruption Characterization using Multimodal VAEs | arXiv | [Paper](http://arxiv.org/pdf/2504.17710v1) | - |
 | 2024-04    | EventVAD: Training-Free Event-Aware Video Anomaly Detection           | arXiv          | [Paper](https://arxiv.org/abs/2504.13092) | - |
 | 2024-04    | Novel Demonstration Generation with Gaussian Splatting                | arXiv          | [Paper](https://arxiv.org/abs/2504.13175) | - |
 
