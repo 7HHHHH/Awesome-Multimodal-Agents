@@ -51,6 +51,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2023-08    | Visual Instruction Tuning                                              | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
 | 2023-07    | PaLM-E: An Embodied Multimodal Language Model                        | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
 | 2024-04    | PerceptionLM: Open-Access Data and Models for Visual Understanding    | arXiv          | [Paper](https://arxiv.org/abs/2504.13180) | - |
+| 2025-05    | [GENMO: A GENeralist Model for Human MOtion](http://arxiv.org/pdf/2505.01425v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01425v1) | - |
 
 ### Tools & Agent Learning
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -59,6 +60,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2023-11    | Tool Learning with Foundation Models                                   | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08354) | [Code](https://github.com/OpenBMB/ToolBench) |
 | 2023-09    | Language Models as Zero-Shot Tool Learners                            | NeurIPS        | [Paper](https://arxiv.org/abs/2308.04548) | - |
 | 2023-08    | Large Language Models as Tool Makers                                   | arXiv          | [Paper](https://arxiv.org/abs/2305.17126) | [Code](https://github.com/ctlllll/llm-toolmaker) |
+| 2025-05    | [FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research](http://arxiv.org/pdf/2505.01383v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01383v1) | [Code](https://github.com/zhu-xlab) |
 
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -76,6 +78,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-04    | Exploring Expert Failures Improves LLM Agent Tuning                   | arXiv          | [Paper](https://arxiv.org/abs/2504.13145) | - |
 | 2024-04    | Sleep-time Compute: Beyond Inference Scaling at Test-time             | arXiv          | [Paper](https://arxiv.org/abs/2504.13171) | - |
 | 2024-04    | It's All Connected: Test-Time Memorization and Attentional Bias       | arXiv          | [Paper](https://arxiv.org/abs/2504.13173) | - |
+| 2025-05    | [SIME: Enhancing Policy Self-Improvement with Modal-level Exploration](http://arxiv.org/pdf/2505.01396v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01396v1) | [Code](https://github.com/ericjin2002/SIME) |
+| 2025-05    | [Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability](http://arxiv.org/pdf/2505.01372v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01372v1) | - |
 
 ### Vision-Language Understanding
 | Date       | Title                                                                 | Venue          | Paper | Code |
