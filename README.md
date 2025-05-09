@@ -34,7 +34,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ## Papers
 
 ### Surveys & Overviews
-| Date       | Title                                                                 | Venue          | Paper | Code |
+| Date       | Title | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2025-04    | Safety in Large Reasoning Models: A Survey                           | arXiv          | [Paper](https://arxiv.org/pdf/2504.17704v1) | - |
 | 2025-04    | Digital Twin Generation from Visual Data: A Survey                    | arXiv          | [Paper](https://arxiv.org/pdf/2504.13159v1) | [Code](https://github.com/ndrwmlnk/awesome-digital-twins) |
@@ -48,29 +48,29 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2025-05    | [GENMO: A GENeralist Model for Human MOtion](http://arxiv.org/pdf/2505.01425v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01425v1) | - |
 | 2025-04    | Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models | arXiv | [Paper](http://arxiv.org/pdf/2504.17789v1) | - |
-| 2024-04    | PerceptionLM: Open-Access Data and Models for Visual Understanding    | arXiv          | [Paper](https://arxiv.org/abs/2504.13180) | - |
-| 2023-09    | GPT-4V: A Comprehensive Survey                                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
-| 2023-08    | Visual Instruction Tuning                                              | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
-| 2023-07    | PaLM-E: An Embodied Multimodal Language Model                        | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
+| 2024-04    |PerceptionLM: Open-Access Data and Models for Visual Understanding| arXiv| [Paper](https://arxiv.org/abs/2504.13180) | - |
+| 2023-09    | GPT-4V: A Comprehensive Survey                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
+| 2023-08    | Visual Instruction Tuning                | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08485) | [Code](https://github.com/haotian-liu/LLaVA) |
+| 2023-07    | PaLM-E: An Embodied Multimodal Language Model                | arXiv          | [Paper](https://arxiv.org/abs/2303.03378) | - |
 
 ### Tools & Agent Learning
-| Date       | Title                                                                 | Venue          | Paper | Code |
+| Date       | Title | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-05    | [FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research](http://arxiv.org/pdf/2505.01383v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01383v1) | [Code](https://github.com/zhu-xlab) |
 | 2025-04    | Step1X-Edit: A Practical Framework for General Image Editing          | arXiv          | [Paper](http://arxiv.org/pdf/2504.17761v1) | - |
 | 2023-11    | Tool Learning with Foundation Models                                   | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08354) | [Code](https://github.com/OpenBMB/ToolBench) |
 | 2023-09    | Language Models as Zero-Shot Tool Learners                            | NeurIPS        | [Paper](https://arxiv.org/abs/2308.04548) | - |
 | 2023-08    | Large Language Models as Tool Makers                                   | arXiv          | [Paper](https://arxiv.org/abs/2305.17126) | [Code](https://github.com/ctlllll/llm-toolmaker) |
-| 2025-05    | [FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research](http://arxiv.org/pdf/2505.01383v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01383v1) | [Code](https://github.com/zhu-xlab) |
 
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-05    | Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
+| 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence             | arXiv          | [Paper](https://arxiv.org/pdf/2504.13079v1) | - |
+| 2025-04    | InstructRAG: Leveraging RAG on Instruction Graphs for LLM-Based Task Planning | arXiv    | [Paper](https://arxiv.org/pdf/2504.13032v1) | - |
 | 2023-12    | Self-RAG: Learning to Retrieve, Generate and Iterate                   | arXiv          | [Paper](https://arxiv.org/abs/2310.11511) | - |
 | 2023-11    | In-Context Retrieval-Augmented Language Models                         | arXiv          | [Paper](https://arxiv.org/abs/2302.00083) | - |
 | 2023-10    | A Survey on Retrieval-Augmented Text Generation                        | arXiv          | [Paper](https://arxiv.org/abs/2312.10997) | - |
-| 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence             | arXiv          | [Paper](https://arxiv.org/pdf/2504.13079v1) | - |
-| 2025-04    | InstructRAG: Leveraging RAG on Instruction Graphs for LLM-Based Task Planning | arXiv    | [Paper](https://arxiv.org/pdf/2504.13032v1) | - |
-| 2025-05    | Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
 
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
@@ -83,7 +83,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2024-04    | It's All Connected: Test-Time Memorization and Attentional Bias       | arXiv          | [Paper](https://arxiv.org/abs/2504.13173) | - |
 
 ### Vision-Language Understanding
-| Date       | Title                                                                 | Venue          | Paper | Code |
+| Date       | Title                | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
 | 2024-04    | PerceptionLM: Open-Access Data and Models                             | arXiv          | [Paper](https://arxiv.org/abs/2504.13180) | - |
 | 2024-04    | Perception Encoder: Visual Embeddings in Network Layers               | arXiv          | [Paper](https://arxiv.org/abs/2504.13181) | - |
