@@ -65,13 +65,11 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2024-10    | VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents | ICLR | [Paper](https://arxiv.org/pdf/2410.10594) | [Code](https://github.com/openbmb/visrag)|
-| 2025-05    | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | arXiv | [Paper](Preprint) | - |
-| 2025-05    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](Preprint) | - |
 | 2025-05    | VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation | arXiv | [Paper](Preprint) | - |
-| 2025-05    | Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
-| 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence             | arXiv          | [Paper](https://arxiv.org/pdf/2504.13079v1) | - |
-| 2025-04    | InstructRAG: Leveraging RAG on Instruction Graphs for LLM-Based Task Planning | arXiv    | [Paper](https://arxiv.org/pdf/2504.13032v1) | - |
+| 2025-05    | RAP:Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
+| 2025-02    | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | CVPR | [Paper](https://arxiv.org/abs/2504.09795) | [Code](https://github.com/nttmdlab-nlp/VDocRAG) |
+| 2025-02    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](https://arxiv.org/abs/2502.18017) | [Code](https://github.com/Alibaba-NLP/ViDoRAG) |
+| 2024-10    | VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents | ICLR | [Paper](https://arxiv.org/pdf/2410.10594) | [Code](https://github.com/openbmb/visrag)|
 | 2023-12    | Self-RAG: Learning to Retrieve, Generate and Iterate                   | arXiv          | [Paper](https://arxiv.org/abs/2310.11511) | - |
 | 2023-11    | In-Context Retrieval-Augmented Language Models                         | arXiv          | [Paper](https://arxiv.org/abs/2302.00083) | - |
 | 2023-10    | A Survey on Retrieval-Augmented Text Generation                        | arXiv          | [Paper](https://arxiv.org/abs/2312.10997) | - |
