@@ -46,7 +46,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Models & Architectures
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2025-05    | [GENMO: A GENeralist Model for Human MOtion](http://arxiv.org/pdf/2505.01425v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01425v1) | - |
+| 2025-05    | GENMO: A GENeralist Model for Human MOtion | arXiv | [Paper](http://arxiv.org/pdf/2505.01425v1) | - |
 | 2025-04    | Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models | arXiv | [Paper](http://arxiv.org/pdf/2504.17789v1) | - |
 | 2024-04    |PerceptionLM: Open-Access Data and Models for Visual Understanding| arXiv| [Paper](https://arxiv.org/abs/2504.13180) | - |
 | 2023-09    | GPT-4V: A Comprehensive Survey                         | arXiv          | [Paper](https://arxiv.org/abs/2311.00419) | - |
@@ -56,7 +56,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Tools & Agent Learning
 | Date       | Title | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2025-05    | [FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research](http://arxiv.org/pdf/2505.01383v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01383v1) | [Code](https://github.com/zhu-xlab) |
+| 2025-05    | FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research | arXiv | [Paper](http://arxiv.org/pdf/2505.01383v1) | [Code](https://github.com/zhu-xlab) |
 | 2025-04    | Step1X-Edit: A Practical Framework for General Image Editing          | arXiv          | [Paper](http://arxiv.org/pdf/2504.17761v1) | - |
 | 2023-11    | Tool Learning with Foundation Models                                   | NeurIPS        | [Paper](https://arxiv.org/abs/2304.08354) | [Code](https://github.com/OpenBMB/ToolBench) |
 | 2023-09    | Language Models as Zero-Shot Tool Learners                            | NeurIPS        | [Paper](https://arxiv.org/abs/2308.04548) | - |
@@ -65,6 +65,10 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2024-10    | VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents | ICLR | [Paper](https://arxiv.org/pdf/2410.10594) | [Code](https://github.com/openbmb/visrag)|
+| 2025-05    | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | arXiv | [Paper](Preprint) | - |
+| 2025-05    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](Preprint) | - |
+| 2025-05    | VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation | arXiv | [Paper](Preprint) | - |
 | 2025-05    | Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
 | 2025-04    | Retrieval-Augmented Generation with Conflicting Evidence             | arXiv          | [Paper](https://arxiv.org/pdf/2504.13079v1) | - |
 | 2025-04    | InstructRAG: Leveraging RAG on Instruction Graphs for LLM-Based Task Planning | arXiv    | [Paper](https://arxiv.org/pdf/2504.13032v1) | - |
@@ -75,8 +79,8 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2025-05    | [SIME: Enhancing Policy Self-Improvement with Modal-level Exploration](http://arxiv.org/pdf/2505.01396v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01396v1) | [Code](https://github.com/ericjin2002/SIME) |
-| 2025-05    | [Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability](http://arxiv.org/pdf/2505.01372v1) | arXiv | [Paper](http://arxiv.org/pdf/2505.01372v1) | - |
+| 2025-05    | SIME: Enhancing Policy Self-Improvement with Modal-level Exploration | arXiv | [Paper](http://arxiv.org/pdf/2505.01396v1) | [Code](https://github.com/ericjin2002/SIME) |
+| 2025-05    |Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability| arXiv | [Paper](http://arxiv.org/pdf/2505.01372v1) | - |
 | 2025-04    | Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees | arXiv | [Paper](http://arxiv.org/pdf/2504.17721v1) | - |
 | 2024-04    | Exploring Expert Failures Improves LLM Agent Tuning                   | arXiv          | [Paper](https://arxiv.org/abs/2504.13145) | - |
 | 2024-04    | Sleep-time Compute: Beyond Inference Scaling at Test-time             | arXiv          | [Paper](https://arxiv.org/abs/2504.13171) | - |
