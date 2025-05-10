@@ -65,10 +65,11 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
-| 2024-11    | M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding | arXiv | [Paper](https://arxiv.org/abs/2411.04952) | [Code](https://github.com/bloomberg/m3docrag) |
+| 2025-04    | HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation | arXiv | [Paper](https://arxiv.org/pdf/2504.12330) | [Code](https://github.com/ocean-luna/HMRAG) |
 | 2025-02    | VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents | CVPR | [Paper](https://arxiv.org/abs/2504.09795) | [Code](https://github.com/nttmdlab-nlp/VDocRAG) |
 | 2025-02    | VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation | NAACL | [Paper](https://arxiv.org/pdf/2412.10704) | [Code](https://github.com/MananSuri27/VisDoM/) |
 | 2025-02    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](https://arxiv.org/abs/2502.18017) | [Code](https://github.com/Alibaba-NLP/ViDoRAG) |
+| 2024-11    | M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding | arXiv | [Paper](https://arxiv.org/abs/2411.04952) | [Code](https://github.com/bloomberg/m3docrag) |
 | 2024-10    | RAP:Retrieval-Augmented Personalization for Multimodal Large Language Models | CVPR | [Paper](https://arxiv.org/abs/2410.13360) | [Code](https://github.com/Hoar012/RAP-MLLM) |
 | 2024-10    | VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents | ICLR | [Paper](https://arxiv.org/pdf/2410.10594) | [Code](https://github.com/openbmb/visrag)|
 
