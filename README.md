@@ -70,9 +70,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 | 2025-02    | VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation | NAACL | [Paper](https://arxiv.org/pdf/2412.10704) | [Code](https://github.com/MananSuri27/VisDoM/) |
 | 2025-02    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](https://arxiv.org/abs/2502.18017) | [Code](https://github.com/Alibaba-NLP/ViDoRAG) |
 | 2024-10    | VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents | ICLR | [Paper](https://arxiv.org/pdf/2410.10594) | [Code](https://github.com/openbmb/visrag)|
-| 2023-12    | Self-RAG: Learning to Retrieve, Generate and Iterate                   | arXiv          | [Paper](https://arxiv.org/abs/2310.11511) | - |
-| 2023-11    | In-Context Retrieval-Augmented Language Models                         | arXiv          | [Paper](https://arxiv.org/abs/2302.00083) | - |
-| 2023-10    | A Survey on Retrieval-Augmented Text Generation                        | arXiv          | [Paper](https://arxiv.org/abs/2312.10997) | - |
+
 
 ### Agent Learning & Optimization
 | Date       | Title                                                                 | Venue          | Paper | Code |
