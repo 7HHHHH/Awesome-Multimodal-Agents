@@ -65,6 +65,7 @@ A curated list of multimodal AI agents and related resources. Focuses on systems
 ### RAG (Retrieval-Augmented Generation)
 | Date       | Title                                                                 | Venue          | Paper | Code |
 |------------|-----------------------------------------------------------------------|----------------|-------|------|
+| 2025-04    | UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities | arXiv | [Paper](https://arxiv.org/pdf/2504.20734) | [Code](https://github.com/wgcyeo/UniversalRAG) |
 | 2025-03    | MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding | arXiv | [Paper](https://arxiv.org/pdf/2503.13964) | [Code](https://github.com/aiming-lab/MDocAgent) |
 | 2025-04    | HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation | arXiv | [Paper](https://arxiv.org/pdf/2504.12330) | [Code](https://github.com/ocean-luna/HMRAG) |
 | 2025-02    | ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents | arXiv | [Paper](https://arxiv.org/abs/2502.18017) | [Code](https://github.com/Alibaba-NLP/ViDoRAG) |
